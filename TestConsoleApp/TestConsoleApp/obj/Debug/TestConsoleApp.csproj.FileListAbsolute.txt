@@ -1,0 +1,6 @@
+c:\users\kenly_000\documents\visual studio 2012\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+C:\Users\kenly_000\Documents\Visual Studio 2012\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+C:\Users\kenly_000\Documents\Visual Studio 2012\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+C:\Users\kenly_000\Documents\Visual Studio 2012\Projects\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\kenly_000\Documents\Visual Studio 2012\Projects\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+C:\Users\kenly_000\Documents\Visual Studio 2012\Projects\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
